@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zeeshan-amin24
+- 👋 Hi, I’m Zeeshan Amin
 - 👀 I’m interested in Web Developing
 - 📫 How to reach me : Instagram-zeeshan_amin24
 - I’m a passionate Web Developer with a strong interest in building modern, user-friendly websites and web applications. I love working with the latest technologies to create beautiful,
